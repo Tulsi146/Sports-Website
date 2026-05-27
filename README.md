@@ -1,1 +1,2 @@
-# Sports-Website
+# IITH-Sports
+NSO website IITH
